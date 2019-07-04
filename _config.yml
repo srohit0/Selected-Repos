@@ -1,3 +1,5 @@
 theme: jekyll-theme-time-machine
 title: Rohit's Blog
-description: selected open source projects
+description: selected open source projects on machine learning and deep learning
+show_downloads: "true" 
+google_analytics: UA-143240948-1
