@@ -9,13 +9,12 @@
 * [ 📊 Graph Algorithms](https://srohit0.github.io/DataScienceGraphAlgorithms/) - Selected graph algorithms in C++ for datascience education.
 * [ 📃 DNN Compier](https://ai-techsystems.github.io/dnnCompiler/) - Generic LLVM based compiler for neural networks. **Under Development**
 
+***
 
 *-Rohit Sharma*
-
 
    [🕊twitter.com/srohit](https://twitter.com/srohit)
  | [🔗linkedin.com/in/srohit0](https://linkedin.com/in/srohit0)
  | [❔ quora.com](https://qr.ae/TWGSt9)
  | [👨‍💻 ai-techsystems.com](https://ai-techsystems.com)
 
-***
