@@ -12,11 +12,11 @@
 
 *-Rohit Sharma*
 
-***
 
-   [🕊twitter.com/srohit](https://twitter.com/srohit)
+ | [🕊twitter.com/srohit](https://twitter.com/srohit)
  | [🔗linkedin.com/in/srohit0](https://linkedin.com/in/srohit0)
  | [❔ quora.com](https://qr.ae/TWGSt9)
  | [👨‍💻 ai-techsystems.com](https://ai-techsystems.com)
+ |
 
 ***
