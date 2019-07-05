@@ -1,4 +1,10 @@
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
 title: Rohit's Blog
 description: selected open source projects 
-google_analytics: UA-143240948-1
+logo: http://github.com/srohit0.png
+google_analytics: UA-143240948-1 
+
+# theme: jekyll-theme-time-machine
+# title: Rohit's Blog
+# description: selected open source projects 
+# google_analytics: UA-143240948-1
