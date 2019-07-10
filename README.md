@@ -1,7 +1,7 @@
 # Selected Projects
 
 ### [ ⚡ M.I.D.A.](https://srohit0.github.io/mida/)
-Selected examples from book on Machine Learning
+Selected examples from [book on Machine Learning](http://amzn.to/2paZ53b)
 ### [ 🚗 traffic Vision](https://srohit0.github.io/trafficVision/) 
 This app detects cars/buses in the live traffic.
 ### [ 🍝 food-MNIST](https://srohit0.github.io/food_mnist) 
