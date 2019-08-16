@@ -1,5 +1,6 @@
 # Selected Projects
-
+### [ 📃 DNN Compier](https://ai-techsystems.github.io/dnnCompiler/)
+Generic LLVM based compiler for neural networks. **Releasong Soon**
 ### [ ⚡ M.I.D.A.](https://srohit0.github.io/mida/)
 Selected examples from [book on Machine Learning](http://amzn.to/2paZ53b)
 ### [ 🚗 traffic Vision](https://srohit0.github.io/trafficVision/) 
@@ -14,8 +15,7 @@ Design IP. Useful for DL activation functions like tanh etc.
 Perl API parsing spice format netlist for VLSI circuits
 ### [ 📊 Graph Algorithms](https://srohit0.github.io/DataScienceGraphAlgorithms/) 
 Selected graph algorithms in C++ for datascience education.
-### [ 📃 DNN Compier](https://ai-techsystems.github.io/dnnCompiler/)
-Generic LLVM based compiler for neural networks. **Under Development**
+
 
 ***
 
