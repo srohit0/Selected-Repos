@@ -1,6 +1,6 @@
 # Selected Projects
 ### [ 📃 DNN Compier](https://ai-techsystems.github.io/dnnCompiler/)
-Generic LLVM based compiler for neural networks. **Releasing Soon**
+AI Edge compiler for microcontrollers and single board computers.
 ### [ ⚡ M.I.D.A.](https://srohit0.github.io/mida/)
 Selected examples from [book on Machine Learning](http://amzn.to/2paZ53b)
 ### [ 🚗 traffic Vision](https://srohit0.github.io/trafficVision/) 
