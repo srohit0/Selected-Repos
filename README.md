@@ -1,6 +1,8 @@
 # Selected Projects
-### [ 📃 DNN Compier](https://ai-techsystems.github.io/dnnCompiler/)
-AI Edge compiler for microcontrollers and single board computers.
+### [ 💽 deepC Framework](https://ai-techsystems.github.io/deepC/)
+AI Edge compiler and inference framework for microcontrollers and single board computers.
+### [ 📶 deepC Arduino](https://github.com/ai-techsystems/arduino)
+Deep Learning Inference Library for arduino boards including IoT.
 ### [ ⚡ M.I.D.A.](https://srohit0.github.io/mida/)
 Selected examples from [book on Machine Learning](http://amzn.to/2paZ53b)
 ### [ 🚗 traffic Vision](https://srohit0.github.io/trafficVision/) 
